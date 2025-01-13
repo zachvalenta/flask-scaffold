@@ -6,7 +6,7 @@ authors = ["zachvalenta <zjv5002@gmail.com>"]
 
 [tool.poetry.dependencies]
 python = "^3.10"
-Flask = "^2.3.2"
+Flask = "^2.2.5"
 python-dotenv = "^0.20.0"
 gunicorn = "^22.0.0"
 uWSGI = "^2.0.22"
