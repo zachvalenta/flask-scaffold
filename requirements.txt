@@ -47,6 +47,6 @@ python-dotenv==0.10.3 \
     --hash=sha256:debd928b49dbc2bf68040566f55cdb3252458036464806f4094487244e2a4093
 uwsgi==2.0.18 \
     --hash=sha256:4972ac538800fb2d421027f49b4a1869b66048839507ccf0aa2fda792d99f583
-werkzeug==3.1.5; python_version >= "2.7" and python_full_version < "3.0.0" or python_full_version >= "3.5.0" \
-    --hash=sha256:5111e36e91086ece91f93268bb39b4a35c1e6f1feac762c9c822ded0a4e322dc \
-    --hash=sha256:6a548b0e88955dd07ccb25539d7d0cc97417ee9e179677d22c7041c8f078ce67
+werkzeug==3.1.6; python_version >= "2.7" and python_full_version < "3.0.0" or python_full_version >= "3.5.0" \
+    --hash=sha256:210c6bede5a420a913956b4791a7f4d6843a43b6fcee4dfa08a65e93007d0d25 \
+    --hash=sha256:7ddf3357bb9564e407607f988f683d72038551200c704012bb9a4c523d42f131
